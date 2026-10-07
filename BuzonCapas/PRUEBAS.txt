@@ -1,0 +1,2 @@
+1. Alta: registrar un mensaje válido.
+2. Persistencia: cerrar, abrir y listar el mensaje.
