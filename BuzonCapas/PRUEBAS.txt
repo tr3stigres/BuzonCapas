@@ -1,2 +1,4 @@
 1. Alta: registrar un mensaje válido.
 2. Persistencia: cerrar, abrir y listar el mensaje.
+3. Rechazo: analizar y responder n conserva el análisis anterior.
+4. Aceptación: analizar y responder s guarda el análisis nuevo.
